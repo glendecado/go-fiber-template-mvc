@@ -10,6 +10,7 @@ A starter template for building RESTful APIs with Go Fiber framework and GORM OR
 - Structured project layout (MVC-like)
 - Request logging middleware
 
+````
 ## Project Structure
 ├── controller/ # Request handlers
 │ └── hello.go
@@ -21,6 +22,7 @@ A starter template for building RESTful APIs with Go Fiber framework and GORM OR
 │ └── router.go
 ├── main.go # Application entry point
 └── .env.example # Environment template
+````
 
 ## Prerequisites
 - Go 1.16+
